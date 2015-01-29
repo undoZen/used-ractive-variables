@@ -1,0 +1,28 @@
+{
+  "name": "used-ractive-variables",
+  "version": "0.0.0",
+  "description": "find which variables being used in a template, without components support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/used-ractive-variables.git"
+  },
+  "keywords": [
+    "ractive"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/used-ractive-variables/issues"
+  },
+  "homepage": "https://github.com/undoZen/used-ractive-variables",
+  "peerDependencies": {
+    "ractive": "*"
+  },
+  "devDependencies": {
+    "tape": "^3.4.0"
+  }
+}
