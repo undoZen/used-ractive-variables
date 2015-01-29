@@ -1,6 +1,6 @@
 {
   "name": "used-ractive-variables",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "find which variables being used in a template, without components support",
   "main": "index.js",
   "files": [
